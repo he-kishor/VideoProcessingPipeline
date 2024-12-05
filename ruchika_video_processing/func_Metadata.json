@@ -1,0 +1,22 @@
+[
+    {
+    "download_video":{"Execution Time": "0.2968895435333252 seconds", "CPU Usage": "0.0%", "Memory Usage": "1.845703125 KB", "Peak Memory Usage": "2404.1474609375KB"},
+    "extract_and_preprocess_audio": {"Execution Time": "0.7874042987823486 seconds", "CPU Usage": "36.0%", "Memory Usage": "2977.087890625 KB", "Peak Memory Usage": "143310.5126953125KB"},
+    "transcribe_audio_whisper":{"Execution Time": "3.9495136737823486 seconds", "CPU Usage": "255.3%", "Memory Usage": "10687.9111328125 KB", "Peak Memory Usage": "141866.98046875KB"},
+    "calculate_english_percentage": {"Execution Time": "0.0 seconds", "CPU Usage": "0.0%", "Memory Usage": "0.1875 KB", "Peak Memory Usage": "3.1357421875KB"},
+    " count_words":{"Execution Time": "0.0 seconds", "CPU Usage": "0.0%", "Memory Usage": "0.0 KB", "Peak Memory Usage": "4.4345703125KB"},
+    "detect_pauses":{"Execution Time": "1.4720146656036377 seconds", "CPU Usage": "94.8%", "Memory Usage": "0.0546875 KB", "Peak Memory Usage": "2057.53515625KB"},
+    "get_average_pitch":{"Execution Time": "0.05826926231384277 seconds", "CPU Usage": "232.7%", "Memory Usage": "0.345703125 KB", "Peak Memory Usage": "66.44140625KB"} ,
+    "analyze_frames":{"Execution Time": "0.676624059677124 seconds", "CPU Usage": "34.1%", "Memory Usage": "0.078125 KB", "Peak Memory Usage": "526.59375KB"} 
+},
+
+{
+    "download_video":{"Execution Time": "0.3508777618408203 seconds", "CPU Usage": "0.0%", "Memory Usage": "4.400390625 KB", "Peak Memory Usage": "2154.54296875KB"},
+    "extract_and_preprocess_audio":{"Execution Time": "0.584381103515625 seconds", "CPU Usage": "29.7%", "Memory Usage": "4081.4013671875 KB", "Peak Memory Usage": "97360.849609375KB"},
+    "transcribe_audio_whisper":{"Execution Time": "2.3160343170166016 seconds", "CPU Usage": "278.5%", "Memory Usage": "169.2431640625 KB", "Peak Memory Usage": "141866.98046875KB"},
+    "calculate_english_percentage": {"Execution Time": "0.0 seconds", "CPU Usage": "0.0%", "Memory Usage": "0.0 KB", "Peak Memory Usage": "2.7431640625KB"},
+    "count_words":{"Execution Time": "0.0 seconds", "CPU Usage": "0.0%", "Memory Usage": "0.0 KB", "Peak Memory Usage": "4.2431640625KB"} ,
+    "detect_pauses":{"Execution Time": "0.8784937858581543 seconds", "CPU Usage": "96.4%", "Memory Usage": "0.0546875 KB", "Peak Memory Usage": "1292.98046875KB"},
+    "get_average_pitch":{"Execution Time": "0.02598714828491211 seconds", "CPU Usage": "352.8%", "Memory Usage": "0.095703125 KB", "Peak Memory Usage": "45.2548828125KB"},
+     "analyze_frames":{"Execution Time": "0.3974647521972656 seconds", "CPU Usage": "20.0%", "Memory Usage": "0.0703125 KB", "Peak Memory Usage": "526.2890625KB"}
+     }]
